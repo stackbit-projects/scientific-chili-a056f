@@ -60,5 +60,4 @@ seo:
       relativeUrl: true
 layout: contact
 ---
-
-To get in touch fill the form below.
+Contattami se vuoi consigli su una delle cose che faccio o vuoi fare una collaborazione sul mio canale o altro...
