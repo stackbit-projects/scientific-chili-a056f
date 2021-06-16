@@ -15,7 +15,7 @@ form_fields:
     default_value: Il tuo indirizzo mail
     is_required: true
   - input_type: select
-    name: subject
+    name: Oggetto
     label: Subject
     default_value: Please select
     options:
