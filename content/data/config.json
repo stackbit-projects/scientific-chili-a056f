@@ -7,7 +7,7 @@
         "tagline": "Minimal and clean blog theme",
         "logo_img": "/images/Copia di Copia di Copia di Copia di Sir. Mallia (1).png",
         "logo_img_alt": "Fjord Logo",
-        "background_img": "images/header-bg.jpg",
+        "background_img": "/images/about.jpg",
         "has_nav": true,
         "nav_links": [
             {
