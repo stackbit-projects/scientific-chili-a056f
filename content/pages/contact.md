@@ -25,6 +25,7 @@ form_fields:
   - input_type: textarea
     name: Messaggio
     label: Messaggio
+    default_value: Scrivi qualcosa qui...
   - input_type: checkbox
     name: consent
     label: >-
