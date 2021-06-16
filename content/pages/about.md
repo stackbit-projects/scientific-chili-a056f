@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Questa è una semplice pagina su di me e il mio lavoro
-img_path: /images/Progetto senza titolo (1).png
+img_path: /images/Progetto senza titolo (2).png
 seo:
   title: About Me
   description: A page about me and my work
