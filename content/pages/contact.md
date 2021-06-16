@@ -24,7 +24,6 @@ form_fields:
       - Other
   - input_type: textarea
     name: Messaggio
-    default_value: s
     label: Messaggio
   - input_type: checkbox
     name: consent
