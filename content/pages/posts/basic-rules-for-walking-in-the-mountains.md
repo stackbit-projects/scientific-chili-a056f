@@ -68,3 +68,7 @@ Natural environments are often fragile, and may be accidentally damaged, especia
 
 Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
 
+\## Video Embeds \<iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>\</iframe>
+
+
+
